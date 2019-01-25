@@ -1,6 +1,6 @@
 //Project 5: Mood Cue
 //Use a servo motor to make a mechanical gauge to point out what sort of mood you're in that day
-//(Use a potentiometer to control a servo motor)
+//Use a potentiometer to control a servo motor
 
 #include <Servo.h>
 Servo myServo;
